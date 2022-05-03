@@ -1,0 +1,13 @@
+{
+  "name": "react-testes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.5.0",
+    "jest": "^28.0.3"
+  }
+}
